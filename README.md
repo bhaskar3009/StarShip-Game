@@ -2,6 +2,14 @@
 
 # Snapshots of the game
 
+# Introduction
+
+We have a ship and we have some aliens.
+So our aim is to kick out the aliens and to kill all of them while they're trying to shoot at you with
+those bombs.
+So it is a very good idea to try to avoid those bombs.
+Otherwise, we are going to die.
+
 # 1) Game Start
 ![Game Start](https://raw.githubusercontent.com/bhaskar3009/StarShip-Game/master/Snapshots/GameStart.png)
 # 2) Bomb Attacks
